@@ -30,6 +30,7 @@ addon | version | maintainers | summary
 [dms_storage](dms_storage/) | 16.0.1.0.0 |  | Integrate DMS with external Storages
 [dms_user_role](dms_user_role/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | DMS User Role
 [hr_dms_field](hr_dms_field/) | 16.0.1.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Add dms field for employees
+[sale_dms_field](sale_dms_field/) | 16.0.1.0.0 |  | Add dms field for sale
 [web_editor_media_dialog_dms](web_editor_media_dialog_dms/) | 16.0.1.0.0 |  | Integrate DMS with media dialog of web editor
 
 [//]: # (end addons)
